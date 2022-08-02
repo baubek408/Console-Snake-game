@@ -1,0 +1,13 @@
+/Users/mynbayevbaubek/Projects/Snake_Console_Advandced/Snake_Console_Advandced/bin/Debug/netcoreapp3.1/Snake_Console_Advandced.deps.json
+/Users/mynbayevbaubek/Projects/Snake_Console_Advandced/Snake_Console_Advandced/bin/Debug/netcoreapp3.1/Snake_Console_Advandced.runtimeconfig.json
+/Users/mynbayevbaubek/Projects/Snake_Console_Advandced/Snake_Console_Advandced/bin/Debug/netcoreapp3.1/Snake_Console_Advandced.runtimeconfig.dev.json
+/Users/mynbayevbaubek/Projects/Snake_Console_Advandced/Snake_Console_Advandced/bin/Debug/netcoreapp3.1/Snake_Console_Advandced.dll
+/Users/mynbayevbaubek/Projects/Snake_Console_Advandced/Snake_Console_Advandced/bin/Debug/netcoreapp3.1/Snake_Console_Advandced.pdb
+/Users/mynbayevbaubek/Projects/Snake_Console_Advandced/Snake_Console_Advandced/obj/Debug/netcoreapp3.1/Snake_Console_Advandced.csproj.AssemblyReference.cache
+/Users/mynbayevbaubek/Projects/Snake_Console_Advandced/Snake_Console_Advandced/obj/Debug/netcoreapp3.1/Snake_Console_Advandced.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mynbayevbaubek/Projects/Snake_Console_Advandced/Snake_Console_Advandced/obj/Debug/netcoreapp3.1/Snake_Console_Advandced.AssemblyInfoInputs.cache
+/Users/mynbayevbaubek/Projects/Snake_Console_Advandced/Snake_Console_Advandced/obj/Debug/netcoreapp3.1/Snake_Console_Advandced.AssemblyInfo.cs
+/Users/mynbayevbaubek/Projects/Snake_Console_Advandced/Snake_Console_Advandced/obj/Debug/netcoreapp3.1/Snake_Console_Advandced.csproj.CoreCompileInputs.cache
+/Users/mynbayevbaubek/Projects/Snake_Console_Advandced/Snake_Console_Advandced/obj/Debug/netcoreapp3.1/Snake_Console_Advandced.dll
+/Users/mynbayevbaubek/Projects/Snake_Console_Advandced/Snake_Console_Advandced/obj/Debug/netcoreapp3.1/Snake_Console_Advandced.pdb
+/Users/mynbayevbaubek/Projects/Snake_Console_Advandced/Snake_Console_Advandced/obj/Debug/netcoreapp3.1/Snake_Console_Advandced.genruntimeconfig.cache
